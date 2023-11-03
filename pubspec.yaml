@@ -30,7 +30,9 @@ dependencies:
   # 加载动画库
   flutter_spinkit: ^5.0.0
   # 播放器
-  video_player: ^2.4.1
+  video_player: ^2.8.1
+  #web 让上的视频播放支持流媒体播放 视频播放器 https://pub.dev/packages/video_player_web_hls
+  video_player_web_hls: ^1.1.0
 
 dev_dependencies:
   flutter_test:
